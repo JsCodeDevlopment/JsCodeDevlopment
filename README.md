@@ -1,7 +1,6 @@
 # HI! WELCOME TO MY PROFILE. 😎 
 My name is Jonatas B. Silva. I work with graphic design and I'm joining programming! 💻<br>
 FrontEnd programmer soon...
-<img align="right" alt="Js-Code" height="150" style="border-radius:150px;" src="https://prnt.sc/LybuSJey_wQ9">
 
 <div align="center">
   <a href="https://github.com/JsCodeDevelopment">
