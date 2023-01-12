@@ -19,4 +19,4 @@ My Current Stacks:<br>
   <a href="https://www.linkedin.com/in/jscodedevelopment/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<a href="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6/project/aa071e5c-5fe1-46d0-a712-2034646679ea"><img src="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6/project/aa071e5c-5fe1-46d0-a712-2034646679ea.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@9837910b-d4e0-464a-bdc3-e5aec7bdf5a6"><img src="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6.svg" alt="Total time coded since Jan 11 2023" /></a>
