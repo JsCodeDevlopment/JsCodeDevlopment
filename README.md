@@ -6,7 +6,7 @@ FrontEnd programmer soon...
   <a href="https://github.com/JsCodeDevelopment">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsCodeDevlopment&layout=compact&langs_count=7&theme=dracula"/>
   <br> <a href="https://wakatime.com/@9837910b-d4e0-464a-bdc3-e5aec7bdf5a6"><img src="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6.svg" alt="Total time coded since Jan 11 2023" /></a><br>
-    <figure><embed src="https://wakatime.com/share/@Jonata/1b734385-175a-4127-90c5-9bb34ea75c4d.svg"></embed></figure>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jonata/4b48594a-0dbe-4801-a6b8-efa9c24a615b.png" /></a>
 </div>
 <div style="display: inline_block"><br>
 My Current Stacks:<br>
