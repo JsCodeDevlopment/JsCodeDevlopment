@@ -1,6 +1,6 @@
 # HI! WELCOME TO MY PROFILE. 😎 
 My name is Jonatas B. Silva. I work with graphic design and I'm joining programming! 💻<br>
-- Web development student since February 2022.
+- Web development student since December 2022.
 - Focus on becoming a fullstack developer.
 
 <div align="center">
