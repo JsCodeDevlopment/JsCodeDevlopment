@@ -13,11 +13,11 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 	<table>
 	<tbody>
 		<tr>
-			<td colspan="3">My Current Stacks</td>
+			<td colspan="3">MY CURRENT STACKS</td>
 		</tr>
 		<tr>
 			<td>Tagging / Styling</td>
-			<td>languages</td>
+			<td>Languages</td>
 			<td>Library / Frameworks</td>
 		</tr>
 		<tr>
