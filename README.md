@@ -9,7 +9,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
   <br> <a href="https://wakatime.com/@9837910b-d4e0-464a-bdc3-e5aec7bdf5a6"><img src="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6.svg" alt="Total time coded since Jan 11 2023" /></a><br>
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jonata/faf669e3-b556-4113-afaf-2cd662d5cb0b.png" width="450px" height="320px" /></a>
 </div>
-<div style="display: inline_block">
+<div style="display: flex; align-items: center; justify-content: center" >
 	<table>
 	<tbody>
 		<tr>
