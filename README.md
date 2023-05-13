@@ -36,7 +36,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 			<td></td>
 		</tr>
 <tr>
-<td>img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></td>
+<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></td>
 <td></td>
 <td></td>
 </tr>
