@@ -4,9 +4,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 - Focus on becoming a fullstack developer.
 
 <div align="center">
-  <a href="https://github.com/JsCodeDevelopment">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsCodeDevlopment&layout=compact&langs_count=7&theme=dracula"/>
-  <br> <a href="https://wakatime.com/@9837910b-d4e0-464a-bdc3-e5aec7bdf5a6"><img src="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6.svg" alt="Total time coded since Jan 11 2023" /></a><br>
+ <a href="https://wakatime.com/@9837910b-d4e0-464a-bdc3-e5aec7bdf5a6"><img src="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6.svg" alt="Total time coded since Jan 11 2023" /></a><br>
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jonata/faf669e3-b556-4113-afaf-2cd662d5cb0b.png" width="450px" height="320px" /></a>
 </div>
 <div style="display: flex; align-items: center; justify-content: center">
