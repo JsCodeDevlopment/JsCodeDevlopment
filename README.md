@@ -40,8 +40,9 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 </tr>
 	</tbody>
 </table>
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JsCodeDevlopment=anuraghazra&layout=compact)(https://github.com/JsCodeDevlopment/github-readme-stats)
-
+	<a href="https://github.com/JsCodeDevlopment/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JsCodeDevlopment" />
+</a>
 </div><br>
  Contact-me:
 <div> 
