@@ -41,7 +41,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 	</tbody>
 </table>
 	<a href="https://github.com/JsCodeDevlopment/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JsCodeDevlopment" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=JsCodeDevlopment](https://github-readme-stats.vercel.app/api/top-langs/?username=JsCodeDevlopment&layout=compact)" />
 </a>
 </div><br>
  Contact-me:
