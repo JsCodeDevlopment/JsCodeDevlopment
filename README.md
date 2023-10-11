@@ -40,6 +40,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 </tr>
 	</tbody>
 </table>
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JsCodeDevlopment=anuraghazra&layout=compact)
 </div><br>
  Contact-me:
 <div> 
