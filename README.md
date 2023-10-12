@@ -46,10 +46,6 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 	</tbody>
 </table>
 </div><br>
-<div style="display: flex;justify-content: space-between;">
-    <a href="https://github.com/JsCodeDevlopment">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsCodeDevlopment&theme=blue-green&langs_count=6"/>
-</div>
  Contact-me:
 <div> 
   <a href="https://instagram.com/jonatasilva14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
