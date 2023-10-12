@@ -16,7 +16,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 		<tr>
 			<td>Tagging / Styling</td>
 			<td>Languages</td>
-			<td>Back-end</td>
+			<td>Back-End</td>
 			<td>Library / Frameworks</td>
 		</tr>
 		<tr>
