@@ -48,7 +48,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 </div><br>
 <div style="display: flex;justify-content: space-between;">
     <a href="https://github.com/JsCodeDevlopment">
-    <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=JsCodeDevlopment&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6"/>
+    <img   src="[https://github-readme-stats.vercel.app/api/wakatime/?username=JsCodeDevlopment&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JsCodeDevlopment&theme=blue-green)&langs_count=6"/>
 </div>
  Contact-me:
 <div> 
