@@ -11,7 +11,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 	<table>
 	<tbody>
 		<tr>
-			<td colspan="4"><center>MY CURRENT STACKS</center>center></td>
+			<td colspan="4"><center>MY CURRENT STACKS</center></td>
 		</tr>
 		<tr>
 			<td>Tagging / Styling</td>
