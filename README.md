@@ -11,38 +11,40 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 	<table>
 	<tbody>
 		<tr>
-			<td colspan="3">MY CURRENT STACKS</td>
+			<td colspan="4">MY CURRENT STACKS</td>
 		</tr>
 		<tr>
 			<td>Tagging / Styling</td>
 			<td>Languages</td>
+			<td>Back-end</td>
 			<td>Library / Frameworks</td>
 		</tr>
 		<tr>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
+			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
 		</tr>
 		<tr>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></td>
-			<td></td>
+			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></td>
+			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"></td>
 		</tr>
 		<tr>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
 			<td></td>
+			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></td>
 			<td></td>
 		</tr>
-<tr>
-<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></td>
-<td></td>
-<td></td>
-</tr>
+		<tr>
+			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
 	</tbody>
 </table>
-	<a href="https://github.com/JsCodeDevlopment/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=JsCodeDevlopment](https://github-readme-stats.vercel.app/api/top-langs/?username=JsCodeDevlopment&layout=compact)" />
-</a>
 </div><br>
  Contact-me:
 <div> 
