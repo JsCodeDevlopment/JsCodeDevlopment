@@ -35,7 +35,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
 			<td></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></td>
-			<td></td>
+			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></td>
 		</tr>
 		<tr>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></td>
@@ -48,6 +48,7 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 </div><br>
  Contact-me:
 <div> 
+	<a href="https://jonatas-silva-developer.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jonatasilva14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonatasilva118@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jscodedevelopment/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
