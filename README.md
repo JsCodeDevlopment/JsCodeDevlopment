@@ -20,13 +20,13 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 			<td>Library / Frameworks</td>
 		</tr>
 		<tr>
-			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></td>
+			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
 		</tr>
 		<tr>
-			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></td>
+			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"></td>
