@@ -40,8 +40,8 @@ My name is Jonatas B. Silva. I work with graphic design and I'm joining programm
 		<tr>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></td>
 			<td></td>
-			<td></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
