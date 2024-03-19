@@ -1,7 +1,7 @@
-# HI! WELCOME TO MY PROFILE. 😎 
+# HI! WELCOME TO MY PROFILE. 🐱‍👤 
 My name is Jonatas B. Silva. I work with graphic design and I'm joining programming. 💻<br>
 - Web development student since January 2023.
-- Focus on becoming a fullstack developer.
+- Today i'm Fullstack Developer.
 
 <div align="center">
  <a href="https://wakatime.com/@9837910b-d4e0-464a-bdc3-e5aec7bdf5a6"><img src="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6.svg" alt="Total time coded since Jan 11 2023" /></a><br>
