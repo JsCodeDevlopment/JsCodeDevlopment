@@ -1,5 +1,5 @@
 # HI! WELCOME TO MY PROFILE. 🐱‍👤 
-My name is Jonatas B. Silva. I work with graphic design and I'm joining programming. 💻<br>
+My name is Jonatas B. Silva. I'm Fullstack Developer at Infinity Tec since 24/04. 💻<br>
 - Web development student since January 2023.
 - Today i'm Fullstack Developer.
 
