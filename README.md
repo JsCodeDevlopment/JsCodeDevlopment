@@ -41,7 +41,7 @@ My name is Jonatas B. Silva. I'm Fullstack Developer at Infinity Tec since 24/04
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></td>
 			<td></td>
 			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></td>
-			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><</td>
+			<td><img align="center" style="margin-top: 10px;" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></td>
 		</tr>
 	</tbody>
 </table>
