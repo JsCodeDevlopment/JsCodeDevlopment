@@ -1,5 +1,8 @@
-# HI! WELCOME TO MY PROFILE. 🐱‍👤 
+<div align='center'>
+  <img src='https://cdn.discordapp.com/attachments/303213411544596481/1252257809362321408/ASSINATURA_DE_EMAIL.png?ex=66718f77&is=66703df7&hm=df3e25ef96f416df8c38f9f742856560fe0874844b4b41b28750ab0371a492f7&' />
+
 My name is Jonatas B. Silva. I'm Fullstack Developer at Infinity Tec since 24/04. 💻<br>
+
 - Web development student since January 2023.
 - Today i'm Fullstack Developer.
 
@@ -52,4 +55,5 @@ My name is Jonatas B. Silva. I'm Fullstack Developer at Infinity Tec since 24/04
   <a href="https://instagram.com/jonatasilva14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonatasilva118@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jscodedevelopment/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 </div>
