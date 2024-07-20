@@ -3,8 +3,8 @@
 
 My name is Jonatas B. Silva. I'm Fullstack Developer at Infinity Tec since 24/04. 💻<br>
 
-- Web development student since January 2023.
-- Today i'm Fullstack Developer.
+Web development student since January 2023.
+Today i'm Fullstack Developer.
 
 <div align="center">
  <a href="https://wakatime.com/@9837910b-d4e0-464a-bdc3-e5aec7bdf5a6"><img src="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6.svg" alt="Total time coded since Jan 11 2023" /></a><br>
