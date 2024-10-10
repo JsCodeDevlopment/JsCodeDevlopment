@@ -1,5 +1,5 @@
 <div align='center'>
-  <img style="width: 38rem;" src='https://cdn.discordapp.com/attachments/303213411544596481/1263119238692995113/capalinkedin.png?ex=66dc4f76&is=66dafdf6&hm=ec10e9bbc6e9ee5bf9e54d0587a607c92ea1d3803662fdff0c2e450a58b521e3&' />
+  <img style="width: 38rem;" src='https://cdn.discordapp.com/attachments/303213411544596481/1263119238692995113/capalinkedin.png?ex=67092276&is=6707d0f6&hm=9386e104847f2512c7db2c1b426e2eb74e838db5527ec8694ff0e8c8691c9fce&' />
 
 My name is Jonatas B. Silva. I'm Fullstack Developer at Infinity Tec since 24/04. 💻<br>
 
