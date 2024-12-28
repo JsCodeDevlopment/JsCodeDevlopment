@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-  <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src="https://drive.google.com/file/d/1adI6XGEl_jyUNutwqzELi8y3ND4-VbCh/view?usp=sharing"  />
+  <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src="https://prnt.sc/sNVs620FCdZN"  />
 </h1>
 
   My name is Jonatas B. Silva. I'm Fullstack Developer at Infinity Tec since
