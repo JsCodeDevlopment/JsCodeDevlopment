@@ -1,8 +1,7 @@
 <div align="center">
-  <img
-    style="width: 38rem"
-    src="https://cdn.discordapp.com/attachments/303213411544596481/1263119238692995113/capalinkedin.png?ex=676419f6&is=6762c876&hm=06f8ba6a130a54615ddf86fca2fe68ba3eec75e271edfbd7b656f8f708c460e2&"
-  />
+  <h1 align="center">
+  <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src="https://drive.google.com/file/d/1adI6XGEl_jyUNutwqzELi8y3ND4-VbCh/view?usp=sharing"  />
+</h1>
 
   My name is Jonatas B. Silva. I'm Fullstack Developer at Infinity Tec since
   24/04. 💻<br />
