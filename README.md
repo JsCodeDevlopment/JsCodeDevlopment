@@ -3,8 +3,11 @@
   <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src="https://img001.prntscr.com/file/img001/J_L6Nzc1Q_W9gllIVuJ2Og.png"  />
 </h1>
 
-  <a href="https://github.com/JsCodeDevlopment" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&width=435&lines=Fullstack+Developer;%2B2+Years+of+Experience;1%25+Better+Every+Day" alt="Typing SVG" />
-</a>
+<h1 align="center">
+  <a href="https://github.com/JsCodeDevlopment" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&width=435&lines=Fullstack+Developer;%2B2+Years+of+Experience;1%25+Better+Every+Day" alt="Typing SVG" />
+  </a>
+</h1>
 
   <div align="center">
     <a href="https://wakatime.com/@9837910b-d4e0-464a-bdc3-e5aec7bdf5a6"
