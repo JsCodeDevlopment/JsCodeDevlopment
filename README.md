@@ -1,12 +1,10 @@
 <div align="center">
   <h1 align="center">
-  <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src="https://img001.prntscr.com/file/img001/FFq8AQj_T_ile_emhlxekw.png"  />
+  <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src="https://img001.prntscr.com/file/img001/J_L6Nzc1Q_W9gllIVuJ2Og.png"  />
 </h1>
 
-  My name is Jonatas B. Silva. I'm Fullstack Developer at Infinity Tec since
-  24/04. 💻<br />
-
-  Web development student since January 2023. Today i'm Fullstack Developer.
+  <a href="https://github.com/JsCodeDevlopment" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&width=435&lines=Fullstack+Developer;%2B2+Years+of+Experience;1%25+Better+Every+Day" alt="Typing SVG" />
+</a>
 
   <div align="center">
     <a href="https://wakatime.com/@9837910b-d4e0-464a-bdc3-e5aec7bdf5a6"
