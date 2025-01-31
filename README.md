@@ -13,6 +13,7 @@
         src="https://wakatime.com/badge/user/9837910b-d4e0-464a-bdc3-e5aec7bdf5a6.svg"
         alt="Total time coded since Jan 11 2023" /></a
     ><br />
+    <a href="https://wakatime.com/@Jonata"><img src="https://wakatime.com/share/@Jonata/d2f73b3e-2199-4a64-baaf-a8860d60e938.png" /></a></br>
     <a href="https://wakatime.com"
       ><img
         src="https://wakatime.com/share/@Jonata/8a3275d1-7019-4d70-aefa-818a720fae84.png"
