@@ -100,8 +100,14 @@
               style="margin-top: 10px"
               src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
             />
-          </td>
-          <td></td>
+						</td>
+						<td>
+            	<img
+            	  align="center"
+            	  style="margin-top: 10px"
+            	  src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+							/>
+					</td>
           <td>
             <img
               align="center"
