@@ -1,6 +1,6 @@
 <div align="center">
   
-<img alt="Banner" title="#Banner" style="object-fit: cover; width: 100%; height: 280px;" src="https://image.prntscr.com/image/XdAV8WFnSqS2WPDow48Y0A.png" />
+<img alt="Banner" title="#Banner" style="object-fit: cover; width: 100%; height: 250px;" src="https://image.prntscr.com/image/XdAV8WFnSqS2WPDow48Y0A.png" />
 
 ### Hi! I'm Jonatas Silva, a Senior Fullstack Developer 👋
 
