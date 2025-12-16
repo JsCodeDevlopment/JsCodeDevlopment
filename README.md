@@ -1,10 +1,10 @@
 <div align="center">
   
-<img alt="Banner" title="#Banner" style="object-fit: cover; width: 100%; height: 250px;" src="https://image.prntscr.com/image/XdAV8WFnSqS2WPDow48Y0A.png" />
+<img alt="Banner" title="#Banner" style="object-fit: cover; width: 100%; height: 230px;" src="https://image.prntscr.com/image/XdAV8WFnSqS2WPDow48Y0A.png" />
 
 ### Hi! I'm Jonatas Silva, a Senior Fullstack Developer 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC3A4&center=true&vCenter=true&width=435&lines=Senior+Fullstack+Developer;Tech+Lead+%26+Engineering+Manager;Building+High-Performance+Teams;Driving+Technical+Excellence)](https://github.com/JsCodeDevlopment)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D51B4&center=true&vCenter=true&width=435&lines=Senior+Fullstack+Developer;Tech+Lead+%26+Engineering+Manager;Building+High-Performance+Teams;Driving+Technical+Excellence)](https://github.com/JsCodeDevlopment)
 
 <br/>
 
