@@ -1,6 +1,6 @@
 <div align="center">
   
-<img alt="Banner" title="#Banner" style="object-fit: cover; width: 100%; height: 230px;" src="https://media.licdn.com/dms/image/v2/D4D16AQG9AyjJabzy2w/profile-displaybackgroundimage-shrink_350_1400/B4DZzPO_9cGkAY-/0/1773003342947?e=1774483200&v=beta&t=RuIH7pQkMsm6BdMY7fOg6lV-Tgx8wIHmm3o5tLi1MoA" />
+<img alt="Banner" title="#Banner" style="object-fit: cover; width: 100%; height: 230px;" src="https://media.licdn.com/dms/image/v2/D4D16AQG9AyjJabzy2w/profile-displaybackgroundimage-shrink_350_1400/B4DZzPO_9cGkAY-/0/1773003342947?e=1776297600&v=beta&t=b_GihhMdnNElVhg2tzyQZgcUK7ppF7KFBY0U24gg_ig" />
 
 ### Hi! I'm Jonatas Silva, a Senior Fullstack Developer 👋
 
